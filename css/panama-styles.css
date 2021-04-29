@@ -1,14 +1,12 @@
 @import "/css/bootstrap.css";
-/* 
+
 * {
     margin:  0;
     padding: 0;
-  } */
-
+  }
 h1{
     font-weight: bold;
 }
-
 #formGroupNameInput, #formGroupApellidoInput, #exampleInputEmail1, #formGroupPhoneInput{
     background-color: var(--verde-4s-background);
 }
@@ -25,10 +23,4 @@ body > section.container-fluid.panama-is-more{
 body > section.container-fluid.panama-is-more > div > div.col-4.col-sm-12{
     margin-top: auto;
     margin-bottom: auto;
-}
-
-@media (min-width: 576px){
-    .col-sm-12{
-        max-width: 90%;
-    }
 }

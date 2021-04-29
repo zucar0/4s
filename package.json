@@ -1,0 +1,25 @@
+{
+  "name": "4s",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zucar0/4s.git"
+  },
+  "keywords": [
+    "inmobiliaria"
+  ],
+  "author": "Antonio Enriquiez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zucar0/4s/issues"
+  },
+  "homepage": "https://github.com/zucar0/4s#readme",
+  "dependencies": {
+    "less": "^4.1.1"
+  }
+}
