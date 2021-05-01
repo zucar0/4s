@@ -54,3 +54,12 @@ button:focus{
 .triangulo-verde-footer{
     color: var(--verde-4s);
 }
+
+@media (max-width: 576px) {
+    .panama-is-more-img {
+        display: none;
+    }
+    .panama-is-more{
+        padding-left: 3rem !important;
+    }
+}
