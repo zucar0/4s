@@ -55,6 +55,34 @@ button:focus{
     color: var(--verde-4s);
 }
 
+a.nav-link{
+    color: #495057;
+}
+span.modelo{
+    color: var(--verde-4s);
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.nav-item{
+    margin-bottom: -1px;
+    margin-left: 7rem !important;
+    /* margin-right: 3rem !important; */
+    margin-top: 1rem;
+}
+a.nav-link.active{
+    background-image: url("../assets/more-triangulo-modelos.png");
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    background-repeat: no-repeat;
+    border-color: white;
+}
+.nav-link.active{
+    border: 0px solid transparent;
+}
+.nav-link:focus{
+    border-color: white white white !important;
+}
 @media (max-width: 576px) {
     .panama-is-more-img {
         display: none;
