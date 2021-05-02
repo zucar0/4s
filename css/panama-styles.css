@@ -83,6 +83,12 @@ a.nav-link.active{
 .nav-link:focus{
     border-color: white white white !important;
 }
+
+#carouselExampleIndicators > a.carousel-control-prev > span.carousel-control-prev-icon{
+    display: none;
+}
+
+
 @media (max-width: 576px) {
     .panama-is-more-img {
         display: none;
