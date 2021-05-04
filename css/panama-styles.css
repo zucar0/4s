@@ -87,7 +87,9 @@ a.nav-link.active{
 #carouselExampleIndicators > a.carousel-control-prev > span.carousel-control-prev-icon{
     display: none;
 }
-
+.figure-img{
+    margin-bottom: 0px;
+}
 
 @media (max-width: 576px) {
     .panama-is-more-img {
@@ -96,4 +98,41 @@ a.nav-link.active{
     .panama-is-more{
         padding-left: 3rem !important;
     }
+}
+@media (min-width: 1024px) and (max-width: 1200px){
+    body > div:nth-child(1) > div > div.col-lg-5.col-md-12.mt-5.mb-5.panama-is-more > div:nth-child(2) > h1{
+        font-size: xx-large !important;
+    }
+    .panama-is-more-text {
+        font-size: small;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5 > h1{
+        font-size: xx-large !important;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5 > p{
+        margin-top: 12rem !important;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5{
+        margin-top: 5% !important;
+    }
+    body > div:nth-child(5) > div > div.col-lg-3{
+        margin-left: 45rem !important;
+        margin-top: 10rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(1){
+        margin-left: 4rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(2){
+        margin-left: 4rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(3){
+        margin-left: 4rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(4){
+        margin-left: 4rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(5){
+        margin-left: 4rem !important;
+    }
+
 }
