@@ -91,6 +91,10 @@ a.nav-link.active{
     margin-bottom: 0px;
 }
 
+body > div.container > div > div > ul.nav.nav-tabs{
+    width: 1440px;
+}
+
 @media (max-width: 576px) {
     .panama-is-more-img {
         display: none;
@@ -135,4 +139,307 @@ a.nav-link.active{
         margin-left: 4rem !important;
     }
 
+}
+@media (min-width: 768px) and (max-width: 800px){
+    body > div:nth-child(2) > div > div.col-lg-5{
+        margin-bottom: 5rem !important;
+        padding-left: 9rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(1){
+        margin-left: 1rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(2){
+        margin-left: 1rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(3){
+        margin-left: 1rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(4){
+        margin-left: 1rem !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(5){
+        margin-left: 1rem !important;
+    }
+    body > div.container > div > div{
+        margin-top: 2rem !important;
+        margin-bottom: 2.5rem !important;
+    }
+    #tabs-1 > div > div.col-lg-2.col-sm-1 > img{
+        width: 65px !important;
+    }
+    #tabs-2 > div > div.col-lg-2.col-sm-1 > img{
+        width: 65px !important;
+    }
+    #tabs-3 > div > div.col-lg-2.col-sm-1 > img{
+        width: 65px !important;
+    }
+    #tabs-4 > div > div.col-lg-2.col-sm-1 > img{
+        width: 65px !important;
+    }
+    #tabs-5 > div > div.col-lg-2.col-sm-1 > img{
+        width: 65px !important;
+    }
+    #tabs-1 > div > div.con-lg-4.col-sm-2.style\={
+        margin-left: 6rem !important;
+        margin-top: 4rem !important;
+        font-size: x-small !important;
+    }
+    #tabs-2 > div > div.con-lg-4.col-sm-2.style\={
+        margin-left: 6rem !important;
+        margin-top: 4rem !important;
+        font-size: x-small !important;
+    }
+    #tabs-3 > div > div.con-lg-4.col-sm-2.style\={
+        margin-left: 6rem !important;
+        margin-top: 4rem !important;
+        font-size: x-small !important;
+    }
+    #tabs-4 > div > div.con-lg-4.col-sm-2.style\={
+        margin-left: 6rem !important;
+        margin-top: 4rem !important;
+        font-size: x-small !important;
+    }
+    #tabs-5 > div > div.con-lg-4.col-sm-2.style\={
+        margin-left: 6rem !important;
+        margin-top: 4rem !important;
+        font-size: x-small !important;
+    }
+    #tabs-5 > div > div.con-lg-4.col-sm-2{
+        font-size: x-small;
+    }
+    #tabs-2 > div > div.con-lg-4.col-sm-2{
+        font-size: x-small;
+        margin-left: 5rem !important;
+    }
+    #tabs-2 > div > div.con-lg-4.col-sm-2{
+        font-size: x-small;
+    }
+    #tabs-3 > div > div.con-lg-4.col-sm-2{
+        font-size: x-small;
+    }
+    #tabs-4 > div > div.con-lg-4.col-sm-2{
+        font-size: x-small;
+    }
+    #tabs-2 > div > div.con-lg-4.col-sm-2{
+        margin-left: 5rem;
+    }
+    #tabs-3 > div > div.con-lg-4.col-sm-2{
+        margin-left: 5rem !important;
+    }
+    #tabs-4 > div > div.con-lg-4.col-sm-2{
+        margin-left: 5rem !important;
+    }
+    #tabs-5 > div > div.con-lg-4.col-sm-2{
+        margin-left: 5rem !important;
+    }
+    body > div:nth-child(4) > div > div.col-lg-4{
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+    }
+    body > div:nth-child(4) > div > div.col-lg-4 > h1{
+        margin-left: 25%;
+    }
+    body > div:nth-child(4) > div > div.col-lg-4 > div{
+        margin-left: 25%;
+    }
+    body > div:nth-child(5) > div > div.col-lg-3.col-sm-12{
+        margin-top: 5rem !important;
+        margin-bottom: 5rem !important;
+        position: relative !important;
+        margin-left: 15rem !important;
+    }
+    body > div:nth-child(6) > div > div.col-lg-3.col-sm-3.d-flex.justify-content-end > img{
+        width: 100px;
+        margin-left: 4rem;
+    }
+    body > div:nth-child(6) > div > div.col-lg-3.col-sm-3.d-flex.justify-content-end{
+        width: 150px !important;
+        display: block !important;
+    }
+
+}
+@media (min-width: 375px) and (max-width: 450px){
+    body > div:nth-child(1) > div > div.col-lg-5.col-md-12.mt-5.mb-5.panama-is-more{
+        margin-left: 2rem !important;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5 > h1{
+        font-size: x-large !important;
+    }
+    .panama-is-more-text {
+        font-size: small !important;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5{
+        margin-left: 5rem !important;
+        margin-top: -5rem !important;
+        margin-bottom: 2rem !important;
+    }
+    body > div:nth-child(4) > div > div.col-lg-4{
+        margin-top: 2rem !important;
+        margin-bottom: 2rem !important;
+    }
+    #carouselExampleIndicators > a.carousel-control-prev{
+        left: 0px !important;
+    }
+    body > div.container > div > div > ul{
+        width: 375px !important;
+    }
+    .nav-item{
+        margin-left: 0rem !important;
+    }
+    body > div.container > div > div > ul{
+        margin-left: 2.5rem !important;
+    }
+    #tabs-1 > div > div:nth-child(1){
+        display: none !important;
+    }
+    #tabs-2 > div > div:nth-child(1){
+        display: none !important;
+    }
+    #tabs-3 > div > div:nth-child(1){
+        display: none !important;
+    }
+    #tabs-4 > div > div:nth-child(1){
+        display: none !important;
+    }
+    #tabs-5 > div > div:nth-child(1){
+        display: none !important;
+    }
+    #tabs-1 > div > div:nth-child(4){
+        display: none !important;
+    }
+    #tabs-2 > div > div:nth-child(4){
+        display: none !important;
+    }
+    #tabs-3 > div > div:nth-child(4){
+        display: none !important;
+    }
+    #tabs-4 > div > div:nth-child(4){
+        display: none !important;
+    }
+    #tabs-5 > div > div:nth-child(4){
+        display: none !important;
+    }
+    #tabs-1 > div > div.con-lg-4.col-sm-2.style\={
+        font-size: small;
+        margin-left: 2rem;
+    }
+    #tabs-2 > div > div.con-lg-4.col-sm-2{
+        font-size: small;
+    }
+    #tabs-3 > div > div.con-lg-4.col-sm-2{
+        font-size: small;
+    }
+    #tabs-5 > div > div.con-lg-4.col-sm-2{
+        font-size: small;
+    }
+    #tabs-4 > div > div.con-lg-4.col-sm-2{
+        font-size: small;
+    }
+    #tabs-2 > div > div.col-lg-4.col-sm-5 > img{
+        width: 340%;
+    }
+    #tabs-3 > div > div.col-lg-4.col-sm-5 > img{
+        width: 320%;
+    }
+    #tabs-4 > div > div.col-lg-4.col-sm-5 > img{
+        width: 350%;
+    }
+    #tabs-5 > div > div.col-lg-4.col-sm-5 > img{
+        width: 380%;
+    }
+    body > div:nth-child(5) > div > div.col-lg-9.col-sm-12 > img{
+        min-height: auto;
+        min-width: auto;
+        width: 100%;
+    }
+    body > div:nth-child(5) > div > div.col-lg-3.col-sm-12{
+        display: block;
+        margin-top: 5rem;
+        margin-bottom: 5rem;
+        position: relative;
+        margin-left: 5rem;
+    }
+    body > div:nth-child(6) > div > div:nth-child(2){
+        display: none;
+    }
+    body > div:nth-child(6) > div > div.col-lg-3.col-sm-3.d-flex.justify-content-end{
+        display: none !important;
+    }
+    body > div:nth-child(6) > div > div:nth-child(1){
+        margin-left: 4rem !important;
+    }
+}
+@media (min-width: 320px) and (max-width: 375px){
+    body > div:nth-child(1) > div > div.col-lg-5.col-md-12.mt-5.mb-5.panama-is-more > div:nth-child(2) > h1{
+        font-size: xx-large;
+    }
+    .panama-is-more-text {
+        font-size: 12px;
+    }
+    body > div:nth-child(1) > div > div.col-lg-5.col-md-12.mt-5.mb-5.panama-is-more > div:nth-child(3) > form > div > button{
+        width: 100%;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5 > h1{
+        font-size: x-large;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5 > p{
+        margin-top: 11.5rem;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5{
+        margin-bottom: 2rem;
+        margin-left: 2rem !important;
+    }
+    body > div.container > div{
+        width: 305px;
+    }
+    body > div.container > div > div > ul > li:nth-child(1){
+        margin-left: 0px !important;
+    }
+    body > div.container > div > div > ul{
+        width: 100%;
+    }
+    body > div.container > div > div > ul > li:nth-child(2){
+        margin-left: 0px !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(3){
+        margin-left: 0px !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(4){
+        margin-left: 0px !important;
+    }
+    body > div.container > div > div > ul > li:nth-child(5){
+        margin-left: 0px !important;
+    }
+    body > div.container{
+        display: none;
+    }
+    body > div:nth-child(4) > div > div.col-lg-4{
+        margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 3rem;
+    }
+    #carouselExampleIndicators > a.carousel-control-prev{
+        left: 0px !important;
+    }
+    body > div:nth-child(5) > div > div.col-lg-9.col-sm-12 > img{
+        width: 100% !important;
+        min-height: 100%;
+    min-width: 100%;
+    }
+    body > div:nth-child(5) > div > div.col-lg-3.col-sm-12{
+        position: relative !important;
+        margin-left: 3rem !important;
+    }
+    body > div:nth-child(6) > div > div:nth-child(2) > p{
+        display: none;
+    }
+    body > div:nth-child(6) > div > div.col-lg-3.col-sm-3.d-flex.justify-content-end{
+        display: none !important;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5 > h1{
+        font-size: large !important;
+    }
+    body > div:nth-child(2) > div > div.col-lg-5{
+        margin-bottom: 2rem !important;
+    }
 }
